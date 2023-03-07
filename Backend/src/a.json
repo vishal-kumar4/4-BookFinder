@@ -1,0 +1,378 @@
+{
+    "1": {
+        "Regid": 101,
+        "Name": "Public Central Library",
+        "Area": "Gachibowli",
+        "Phone": "7856462138",
+        "Email": "lib_101@gmail.com",
+        "Password": "Password@123",
+        "Books": {
+            "ULYSSES": {
+                "author": "James Joyce",
+                "copies": 20
+            },
+            "A PORTRAIT OF THE ARTIST AS A YOUNG MAN": {
+                "author": "James Joyce",
+                "copies": 20
+            },
+            "LOLITA": {
+                "author": "Vladimir Nabokov",
+                "copies": 15
+            },
+            "1984": {
+                "author": "George Orwell",
+                "copies": 25
+            },
+            "NATIVE SON": {
+                "author": "Richard Wright",
+                "copies": 15
+            },
+            "NOSTROMO": {
+                "author": "Joseph Conrad",
+                "copies": 5
+            },
+            "PALE FIRE": {
+                "author": "Vladimir Nabokov",
+                "copies": 5
+            },
+            "MAIN STREET": {
+                "author": "Sinclair Lewis",
+                "copies": 16
+            },
+            "A FAREWELL TO ARMS": {
+                "author": "Ernest Hemingway",
+                "copies": 3
+            },
+            "SCOOP": {
+                "author": "Evelyn Waugh",
+                "copies": 5
+            },
+            "FINNEGANS WAKE": {
+                "author": "James Joyce",
+                "copies": 15
+            },
+            "LORD JIM": {
+                "author": "Joseph Conrad",
+                "copies": 23
+            },
+            "RAGTIME": {
+                "author": "Doctorow",
+                "copies": 7
+            },
+            "LOVING": {
+                "author": "Henry Green",
+                "copies": 10
+            },
+            "IRONWEED": {
+                "author": "William Kennedy",
+                "copies": 19
+            },
+            "SOPHIE CHOICE": {
+                "author": "William Styron",
+                "copies": 23
+            },
+            "THE SHELTERING SKY": {
+                "author": "Paul Bowles",
+                "copies": 9
+            },
+            "THE GINGER MAN": {
+                "author": "Donleavy",
+                "copies": 5
+            },
+            "THE HOUSE OF MIRTH": {
+                "author": "Edith Wharton",
+                "copies": 2
+            },
+            "Python Programming": {
+                "author": "REEMA THAREJA",
+                "copies": 30
+            },
+            "Data Structures And Algorithm in Java": {
+                "author": "narasimha karumanchi",
+                "copies": 20
+            },
+            "Wings of Fire": {
+                "author": "Abdul Kalam",
+                "copies": 7
+            },
+            "PARADE’S END": {
+                "author": "Ford Madox Ford",
+                "copies": 4
+            },
+            "TROPIC OF CANCER": {
+                "author": "Henry Miller",
+                "copies": 5
+            }
+        }
+    },
+    "2": {
+        "Regid": 102,
+        "Name": "City Central Library",
+        "Area": "Chikkadpally",
+        "Phone": "5856662138",
+        "Email": "lib_102@gmail.com",
+        "Password": "Password@123",
+        "Books": {
+            "ULYSSES": {
+                "author": "James Joyce",
+                "copies": 20
+            },
+            "LOLITA": {
+                "author": "Vladimir Nabokov",
+                "copies": 15
+            },
+            "1984": {
+                "author": "George Orwell",
+                "copies": 25
+            },
+            "NOSTROMO": {
+                "author": "Joseph Conrad",
+                "copies": 5
+            },
+            "MAIN STREET": {
+                "author": "Sinclair Lewis",
+                "copies": 16
+            },
+            "A FAREWELL TO ARMS": {
+                "author": "Ernest Hemingway",
+                "copies": 3
+            },
+            "SCOOP": {
+                "author": "Evelyn Waugh",
+                "copies": 5
+            },
+            "Ulysses": {
+                "author": "James Joyce",
+                "copies": 15
+            },
+            "RAGTIME": {
+                "author": "Doctorow",
+                "copies": 7
+            },
+            "LOVING": {
+                "author": "Henry Green",
+                "copies": 10
+            },
+            "Roscoe": {
+                "author": "William Kennedy",
+                "copies": 19
+            },
+            "SOPHIE CHOICE": {
+                "author": "William Styron",
+                "copies": 23
+            },
+            "Midnight Mass": {
+                "author": "Paul Bowles",
+                "copies": 9
+            },
+            "A Fairy Tale of New York": {
+                "author": "Donleavy",
+                "copies": 5
+            },
+            "THE HOUSE OF MIRTH": {
+                "author": "Edith Wharton",
+                "copies": 2
+            },
+            "Programming in C": {
+                "author": "REEMA THAREJA",
+                "copies": 30
+            },
+            "Data Structures And Algorithm in Java": {
+                "author": "narasimha karumanchi",
+                "copies": 20
+            },
+            "Wings of Fire": {
+                "author": "Abdul Kalam",
+                "copies": 7
+            },
+            "The Brown Owl": {
+                "author": "Ford Madox Ford",
+                "copies": 4
+            },
+            "NEXUS": {
+                "author": "Henry Miller",
+                "copies": 5
+            }
+        }
+    },
+    "3": {
+        "Regid": 103,
+        "Name": "State Central Library",
+        "Area": " Afzal Gunj ",
+        "Phone": "9866462424",
+        "Email": "lib_103@gmail.com",
+        "Password": "Password@123",
+        "Books": {
+            "The Furrows": {
+                "author": "Namwali Serpell",
+                "copies": 20
+            },
+            "Letters to Véra": {
+                "author": "Vladimir Nabokov",
+                "copies": 15
+            },
+            "1984": {
+                "author": "George Orwell",
+                "copies": 25
+            },
+            "The Tale": {
+                "author": "Joseph Conrad",
+                "copies": 5
+            },
+            "Babbitt": {
+                "author": "Sinclair Lewis",
+                "copies": 16
+            },
+            "Green Hills of Africa": {
+                "author": "Ernest Hemingway",
+                "copies": 3
+            },
+            "SCOOP": {
+                "author": "Evelyn Waugh",
+                "copies": 5
+            },
+            "The Sun Also Rises": {
+                "author": "Ernest Hemingway",
+                "copies": 15
+            },
+            "Homer & Langley": {
+                "author": "Doctorow",
+                "copies": 7
+            },
+            "LOVING": {
+                "author": "Henry Green",
+                "copies": 10
+            },
+            "The Great Gatsby": {
+                "author": "Scott Fitzgerald",
+                "copies": 19
+            },
+            "Darkness Visible": {
+                "author": "William Styron",
+                "copies": 23
+            },
+            "Too Far from Home": {
+                "author": "Paul Bowles",
+                "copies": 9
+            },
+            "To Kill a Mockingbird": {
+                "author": "Harper Lee",
+                "copies": 5
+            },
+            "THE Reef": {
+                "author": "Edith Wharton",
+                "copies": 2
+            },
+            "Electrical Circuit Theory and Technology": {
+                "author": "John Bird",
+                "copies": 30
+            },
+            "Fundamentals of Database System": {
+                "author": "Ramez Elmasri",
+                "copies": 20
+            },
+            "Switching and Finite Automata Theory": {
+                "author": "ZVIKohavi",
+                "copies": 7
+            },
+            "Probability Statistics and Random Processes": {
+                "author": "T Veerarajan",
+                "copies": 4
+            },
+            "Fundamentals of Computer Algorithm,": {
+                "author": "Ellis Horowitz",
+                "copies": 5
+            }
+        }
+    },
+    "4": {
+        "Regid": 104,
+        "Name": "British Library",
+        "Area": "Jubilee Hills",
+        "Phone": "9564621366",
+        "Email": "lib_104@gmail.com",
+        "Password": "Password@123",
+        "Books": {
+            "The Furrows": {
+                "author": "Namwali Serpell",
+                "copies": 20
+            },
+            "Letters to Véra": {
+                "author": "Vladimir Nabokov",
+                "copies": 15
+            },
+            "Why I Write": {
+                "author": "George Orwell",
+                "copies": 25
+            },
+            "The Secret Sharer": {
+                "author": "Joseph Conrad",
+                "copies": 5
+            },
+            "Babbitt": {
+                "author": "Sinclair Lewis",
+                "copies": 16
+            },
+            "Green Hills of Africa": {
+                "author": "Ernest Hemingway",
+                "copies": 3
+            },
+            "Unconditional Surrender": {
+                "author": "Evelyn Waugh",
+                "copies": 5
+            },
+            "The Sun Also Rises": {
+                "author": "Ernest Hemingway",
+                "copies": 15
+            },
+            "Homer & Langley": {
+                "author": "Doctorow",
+                "copies": 7
+            },
+            "LIVING": {
+                "author": "Henry Green",
+                "copies": 10
+            },
+            "The Crack-Up": {
+                "author": "Scott Fitzgerald",
+                "copies": 19
+            },
+            "A Tidewater Morning": {
+                "author": "William Styron",
+                "copies": 23
+            },
+            "Too Far from Home": {
+                "author": "Paul Bowles",
+                "copies": 9
+            },
+            "Go Set a Watchman": {
+                "author": "Harper Lee",
+                "copies": 5
+            },
+            "The Age of Innocence": {
+                "author": "Edith Wharton",
+                "copies": 2
+            },
+            "Electrical Circuit Theory and Technology": {
+                "author": "John Bird",
+                "copies": 30
+            },
+            "Introduction to Machine Learning": {
+                "author": "Ethem Alpaydin",
+                "copies": 20
+            },
+            "Financial Management": {
+                "author": "Panday",
+                "copies": 7
+            },
+            "Discrete Mathematics": {
+                "author": "JK Sharma,",
+                "copies": 4
+            },
+            "ComputerOrganization": {
+                "author": "Carl Hamachar",
+                "copies": 5
+            }
+        }
+    }
+}
